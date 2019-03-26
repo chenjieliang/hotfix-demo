@@ -1,0 +1,3 @@
+com/cjl/hotfix/BaseActivity.class
+com/cjl/hotfix/MainActivity.class
+com/cjl/hotfix/BaseApplication.class
